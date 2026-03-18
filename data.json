@@ -1,0 +1,111 @@
+{
+  "name": "Thomas",
+  "pets": [
+    {
+      "name": "Mochi",
+      "species": "dog",
+      "tasks": [
+        {
+          "title": "Morning walk",
+          "time_of_day": "15:44",
+          "duration_minutes": 20,
+          "priority": "high",
+          "frequency": "once",
+          "owner_pet": "Mochi",
+          "due_date": "2026-03-18",
+          "is_completed": false
+        },
+        {
+          "title": "Morning walk",
+          "time_of_day": "15:44",
+          "duration_minutes": 20,
+          "priority": "high",
+          "frequency": "once",
+          "owner_pet": "Mochi",
+          "due_date": "2026-03-18",
+          "is_completed": false
+        }
+      ]
+    },
+    {
+      "name": "Lucifer",
+      "species": "cat",
+      "tasks": [
+        {
+          "title": "Dinner Meal",
+          "time_of_day": "18:00",
+          "duration_minutes": 25,
+          "priority": "medium",
+          "frequency": "daily",
+          "owner_pet": "Lucifer",
+          "due_date": "2026-03-19",
+          "is_completed": false
+        }
+      ]
+    },
+    {
+      "name": "Blueberry ",
+      "species": "cat",
+      "tasks": [
+        {
+          "title": "Play with Blueberry at Park",
+          "time_of_day": "18:45",
+          "duration_minutes": 25,
+          "priority": "medium",
+          "frequency": "daily",
+          "owner_pet": "Blueberry ",
+          "due_date": "2026-03-19",
+          "is_completed": false
+        }
+      ]
+    },
+    {
+      "name": "Mishka",
+      "species": "dog",
+      "tasks": [
+        {
+          "title": "Shower and Grooming",
+          "time_of_day": "16:15",
+          "duration_minutes": 25,
+          "priority": "medium",
+          "frequency": "daily",
+          "owner_pet": "Mishka",
+          "due_date": "2026-03-19",
+          "is_completed": false
+        }
+      ]
+    },
+    {
+      "name": "Broche",
+      "species": "dog",
+      "tasks": [
+        {
+          "title": "Afternoon Walk",
+          "time_of_day": "13:30",
+          "duration_minutes": 25,
+          "priority": "low",
+          "frequency": "daily",
+          "owner_pet": "Broche",
+          "due_date": "2026-03-20",
+          "is_completed": false
+        }
+      ]
+    },
+    {
+      "name": "Milky Way",
+      "species": "cat",
+      "tasks": [
+        {
+          "title": "Morning Meal",
+          "time_of_day": "08:00",
+          "duration_minutes": 25,
+          "priority": "low",
+          "frequency": "daily",
+          "owner_pet": "Milky Way",
+          "due_date": "2026-03-22",
+          "is_completed": false
+        }
+      ]
+    }
+  ]
+}
