@@ -132,6 +132,13 @@ Run tests with:
 ```bash
 python3 -m pytest
 ```
+Video Walkthrough
+
+## Video Walkthrough
+
+## Video Walkthrough
+
+![PawPal+ Demo](assets/Week%204%20Project%20Assignment%20AI%20110.gif)
 
 ### What the tests cover
 - task addition
